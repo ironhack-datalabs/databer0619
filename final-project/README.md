@@ -204,9 +204,9 @@ The following deliverables should be pushed to your Github repo.
 
 ### Format
 
-* Presentation Time: 12 minutes
+* Presentation Time: 6 minutes
 * Q & A: 3 minutes
-* **Total Time:** 15 minutes
+* **Total Time:** 9 minutes
 
 ### Attire
 
